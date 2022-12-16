@@ -1,0 +1,14 @@
+{
+    "Products": [
+        {
+            "sku": "0",
+            "product_title": "Women Crop T-Shirt",
+            "description": "Cropped T-shirt in soft cotton jersey. Relaxed fit with a round, rib-trimmed neckline, low dropped shoulders and short sleeves that finish just above the elbows.",
+        },
+        {
+            "sku": "1",
+            "product_title": "Rolled Sleeves",
+            "description": "Open blazer with a lapel collar and turn-up sleeves falling below the elbow with sleeve tabs"
+        }
+    ]
+}
